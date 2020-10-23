@@ -5,11 +5,11 @@
   ## Description
   A workout tracker.
 
-  ![](../public/images/ft1.png)
+  ![](./public/images/ft1.png)
 
-  ![](../public/images/ft2.png)
+  ![](./public/images/ft2.png)
 
-  ![](../public/images/ft3.png)
+  ![](./public/images/ft3.png)
 
 
 
